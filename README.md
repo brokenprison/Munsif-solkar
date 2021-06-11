@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Cortian
+- 👋 Hi, I’m @munsif.f.f.f
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning progrmming
-- 📫 Instagram [ munsif.f.f.f ]
 
 <!---
 Cortian/Cortian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
